@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-[![John Kilpatrik | Twitter](https://img.shields.io/twitter/follow/rjkilpatrick1?style=flat-square)](https://www.twitter.com/rjkilpatrick1)
-[![John Kilpatrik | LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkilpatrick)
+[![John Kilpatrick | Twitter](https://img.shields.io/twitter/follow/rjkilpatrick1?style=flat-square)](https://www.twitter.com/rjkilpatrick1)
+[![John Kilpatrick | LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkilpatrick)
 
 Or [create an issue](https://github.com/rjkilpatrick/rjkilpatrick/issues)
